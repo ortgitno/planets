@@ -1,4 +1,4 @@
 new planetary file for new planets2 directory
 we have this file that collaborating
 This is not an edit conflict, is it?
-This one MIGHT be a conflicting change.
+--- yes it might be ---This one MIGHT be a conflicting change.
