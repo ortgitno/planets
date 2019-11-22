@@ -1,5 +1,10 @@
 new planetary file for new planets2 directory
 we have this file that collaborating
 This is not an edit conflict, is it?
+<<<<<<< HEAD
 This one MIGHT be a conflicting change.
 Trying this again. - KQ
+=======
+--- yes it might be ---This one MIGHT be a conflicting change.
+>>>>>>> 9266b7616724d71df812264a3065ee33a5b3ed7a
+I'm leaving the conflict here for posterity.
